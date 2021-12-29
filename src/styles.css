@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap");
+
+body {
+  font-family: Quicksand;
+}
+.vertical-center {
+  min-height: 100%; /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#refreshBtn {
+  color: white;
+  margin: 0 0 0 20px;
+}
+
+#counter {
+  position: absolute;
+  top: -36px;
+  right: -30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  float: right;
+  width: 270px;
+  font-size: 1.2em;
+}
+#selectTime {
+  width: 90px;
+}

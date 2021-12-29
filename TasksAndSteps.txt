@@ -1,0 +1,8 @@
+
+=> UI design  ✓
+=> Get phrase randomly ✓
+=> Show clock UI ✓
+=> Start clock ✓
+=> End and submit ✓
+=> phrase comparision
+=> Show result
