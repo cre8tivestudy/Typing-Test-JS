@@ -4,5 +4,5 @@
 => Show clock UI ✓
 => Start clock ✓
 => End and submit ✓
-=> phrase comparision
-=> Show result
+=> phrase comparision 
+=> Show result ✓
